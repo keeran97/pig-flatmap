@@ -327,6 +327,10 @@
         "term": "UBERON:0000379",
         "name": "Tracheal Mucosa"
     },
+    "respiratory_30": {
+        "term": "UBERON:0001737",
+        "name": "Larynx"
+    },
     "digestive_1": {
         "term": "UBERON:0001007",
         "name": "digestive system"
@@ -615,6 +619,10 @@
         "term": "ILX:0793658",
         "name": "Proximal Stomach"
     },
+    "digestive_79": {
+        "term": "UBERON:0001245",
+        "name": "Anus"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
@@ -654,6 +662,10 @@
     "reproductive_10": {
         "term": "UBERON:0000998",
         "name": "seminal vesicle"
+    },
+    "reproductive_11": {
+        "term": "UBERON:0000997",
+        "name": "Mammalian Vulva"
     },
     "muscle_1": {
         "term": "ILX:0738319",
@@ -718,6 +730,10 @@
     "body_8": {
         "term": "UBERON:0001723",
         "name": "tongue"
+    },
+    "body_9": {
+        "term": "UBERON:0001707",
+        "name": "Nasal Cavity"
     },
     "circulatory_1": {
         "term": "UBERON:0001981",
@@ -1158,6 +1174,10 @@
     "brain_49": {
         "term": "UBERON:0001893",
         "name": "Telencephalon"
+    },
+    "brain_50": {
+        "term": "ILX:0741361",
+        "name": "Pineal Gland"
     },
     "bolser_2": {
         "term": "ILX:0738309",
