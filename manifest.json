@@ -1,0 +1,18 @@
+{
+    "id": "pig-flatmap",
+    "models": "NCBITaxon:9823",
+    "description": "description.json",
+    "properties": "properties.json",
+    "sckan-version": "production",
+    "sources": [
+        {
+            "id": "whole-pig",
+            "href": "pig_flatmap.svg",
+            "kind": "base"
+        }
+    ],
+    "anatomicalMap": "anatomical_map.json",
+    "connectivityTerms": "connectivity_terms.json",
+    "neuronConnectivity": [
+    ]
+}
