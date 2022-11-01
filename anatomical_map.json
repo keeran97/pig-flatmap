@@ -1179,6 +1179,14 @@
         "term": "ILX:0741361",
         "name": "Pineal Gland"
     },
+    "brain_51": {
+        "term": "UBERON:0000959",
+        "name": "Optic Chiasm"
+    },
+    "brain_52": {
+        "term": "UBERON:0002623",
+        "name": "Cerebral Peduncle"
+    },
     "bolser_2": {
         "term": "ILX:0738309",
         "name": "Internal branch of inferior laryngeal nerve"
