@@ -2054,6 +2054,12 @@
         "bolser_8-1": {
             "class": "bolser_8"
         },
+        "brain_1-1": {
+            "class": "brain_1"
+        },
+        "brain_1-2": {
+            "class": "brain_1"
+        },
         "brain_10-2": {
             "class": "brain_10"
         },
@@ -2071,18 +2077,6 @@
         },
         "brain_13-1": {
             "class": "brain_13"
-        },
-        "brain_9-1": {
-            "class": "brain_9"
-        },
-        "brain_9-2": {
-            "class": "brain_9"
-        },
-        "brain_1-1": {
-            "class": "brain_1"
-        },
-        "brain_1-2": {
-            "class": "brain_1"
         },
         "brain_14-1": {
             "class": "brain_14"
@@ -2105,10 +2099,16 @@
         "brain_2-1": {
             "class": "brain_2"
         },
+        "brain_2-2": {
+            "class": "brain_2"
+        },
         "brain_20-1": {
             "class": "brain_20"
         },
         "brain_21-1": {
+            "class": "brain_21"
+        },
+        "brain_21-2": {
             "class": "brain_21"
         },
         "brain_23_1": {
@@ -2124,6 +2124,9 @@
             "class": "brain_23"
         },
         "brain_24-1": {
+            "class": "brain_24"
+        },
+        "brain_24-2": {
             "class": "brain_24"
         },
         "brain_25-1": {
@@ -2195,11 +2198,20 @@
         "brain_49-1": {
             "class": "brain_49"
         },
+        "brain_5-1": {
+            "class": "brain_5"
+        },
         "brain_50-1": {
             "class": "brain_50"
         },
-        "brain_5-1": {
-            "class": "brain_5"
+        "brain_51-1": {
+            "class": "brain_51"
+        },
+        "brain_51-2": {
+            "class": "brain_51"
+        },
+        "brain_52-1": {
+            "class": "brain_52"
         },
         "brain_6-1": {
             "class": "brain_6"
@@ -2209,6 +2221,15 @@
         },
         "brain_8-1": {
             "class": "brain_8"
+        },
+        "brain_8-2": {
+            "class": "brain_8"
+        },
+        "brain_9-1": {
+            "class": "brain_9"
+        },
+        "brain_9-2": {
+            "class": "brain_9"
         },
         "cardio_10-1": {
             "class": "cardio_10"
@@ -2382,6 +2403,9 @@
         "digestive_14-1": {
             "class": "digestive_14"
         },
+        "digestive_14-2": {
+            "class": "digestive_14"
+        },
         "digestive_15-1": {
             "class": "digestive_15"
         },
@@ -2409,8 +2433,17 @@
         "digestive_21-1": {
             "class": "digestive_21"
         },
+        "digestive_25-1": {
+            "class": "digestive_25"
+        },
+        "digestive_26-1": {
+            "class": "digestive_25"
+        },
         "digestive_3-1": {
             "class": "digestive_3"
+        },
+        "digestive_31-1": {
+            "class": "digestive_31"
         },
         "digestive_34-1": {
             "class": "digestive_34"
@@ -2755,6 +2788,12 @@
         "reproductive_5-1": {
             "class": "reproductive_5"
         },
+        "reproductive_6-1": {
+            "class": "reproductive_6"
+        },
+        "reproductive_6-2": {
+            "class": "reproductive_6"
+        },
         "reproductive_8-1": {
             "class": "reproductive_8"
         },
@@ -2807,6 +2846,9 @@
             "class": "respiratory_19"
         },
         "respiratory_2-1": {
+            "class": "respiratory_2"
+        },
+        "respiratory_2-2": {
             "class": "respiratory_2"
         },
         "respiratory_20-1": {
