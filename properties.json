@@ -1756,160 +1756,94 @@
             "models": "ILX:0793232",
             "name": "Gray communicating ramus of fifth sacral nerve"
         },
-        "S50_C1_T": {
+        "S50_C1": {
             "class": "spinal_50"
         },
-        "S50_C2_T": {
+        "S50_C2": {
             "class": "spinal_50"
         },
-        "S50_C3_T": {
+        "S50_C3": {
             "class": "spinal_50"
         },
-        "S50_C4_T": {
+        "S50_C4": {
             "class": "spinal_50"
         },
-        "S50_C5_T": {
+        "S50_C5": {
             "class": "spinal_50"
         },
-        "S50_C6_T": {
+        "S50_C6": {
             "class": "spinal_50"
         },
-        "S50_C7_T": {
+        "S50_C7": {
             "class": "spinal_50"
         },
-        "S50_C8_T": {
+        "S50_C8": {
             "class": "spinal_50"
         },
-        "S50_L1_B": {
+        "S50_L1": {
             "class": "spinal_50"
         },
-        "S50_L1_T": {
+        "S50_L2": {
             "class": "spinal_50"
         },
-        "S50_L2_B": {
+        "S50_L3": {
             "class": "spinal_50"
         },
-        "S50_L2_T": {
+        "S50_L4": {
             "class": "spinal_50"
         },
-        "S50_L3_B": {
+        "S50_L5": {
             "class": "spinal_50"
         },
-        "S50_L3_T": {
+        "S50_L6": {
             "class": "spinal_50"
         },
-        "S50_L4_B": {
+        "S50_S1": {
             "class": "spinal_50"
         },
-        "S50_L4_T": {
+        "S50_S2": {
             "class": "spinal_50"
         },
-        "S50_L5_B": {
+        "S50_S3": {
             "class": "spinal_50"
         },
-        "S50_L5_T": {
+        "S50_T1": {
             "class": "spinal_50"
         },
-        "S50_L6_B": {
+        "S50_T2": {
             "class": "spinal_50"
         },
-        "S50_L6_T": {
+        "S50_T3": {
             "class": "spinal_50"
         },
-        "S50_S1_B": {
+        "S50_T4": {
             "class": "spinal_50"
         },
-        "S50_S1_T": {
+        "S50_T5": {
             "class": "spinal_50"
         },
-        "S50_S2_B": {
+        "S50_T6": {
             "class": "spinal_50"
         },
-        "S50_S2_T": {
+        "S50_T7": {
             "class": "spinal_50"
         },
-        "S50_S3_B": {
+        "S50_T8": {
             "class": "spinal_50"
         },
-        "S50_S3_T": {
+        "S50_T9": {
             "class": "spinal_50"
         },
-        "S50_T10_B": {
+        "S50_T10": {
             "class": "spinal_50"
         },
-        "S50_T10_T": {
+        "S50_T11": {
             "class": "spinal_50"
         },
-        "S50_T11_B": {
+        "S50_T12": {
             "class": "spinal_50"
         },
-        "S50_T11_T": {
-            "class": "spinal_50"
-        },
-        "S50_T12_B": {
-            "class": "spinal_50"
-        },
-        "S50_T12_T": {
-            "class": "spinal_50"
-        },
-        "S50_T13_B": {
-            "class": "spinal_50"
-        },
-        "S50_T13_T": {
-            "class": "spinal_50"
-        },
-        "S50_T1_B": {
-            "class": "spinal_50"
-        },
-        "S50_T1_T": {
-            "class": "spinal_50"
-        },
-        "S50_T2_B": {
-            "class": "spinal_50"
-        },
-        "S50_T2_T": {
-            "class": "spinal_50"
-        },
-        "S50_T3_B": {
-            "class": "spinal_50"
-        },
-        "S50_T3_T": {
-            "class": "spinal_50"
-        },
-        "S50_T4_B": {
-            "class": "spinal_50"
-        },
-        "S50_T4_T": {
-            "class": "spinal_50"
-        },
-        "S50_T5_B": {
-            "class": "spinal_50"
-        },
-        "S50_T5_T": {
-            "class": "spinal_50"
-        },
-        "S50_T6_B": {
-            "class": "spinal_50"
-        },
-        "S50_T6_T": {
-            "class": "spinal_50"
-        },
-        "S50_T7_B": {
-            "class": "spinal_50"
-        },
-        "S50_T7_T": {
-            "class": "spinal_50"
-        },
-        "S50_T8_B": {
-            "class": "spinal_50"
-        },
-        "S50_T8_T": {
-            "class": "spinal_50"
-        },
-        "S50_T9_B": {
-            "class": "spinal_50"
-        },
-        "S50_T9_T": {
+        "S50_T13": {
             "class": "spinal_50"
         },
         "S51_L6": {
@@ -4788,10 +4722,8 @@
                     "models": "ILX:0786059",
                     "connects": [
                         "vagus_point_2",
+                        "VC_point_1",
                         "VC_point_2"
-                    ],
-                    "contained-in": [
-                        "VC_point_1"
                     ]
                 },
                 {
@@ -4799,10 +4731,8 @@
                     "models": "UBERON:0000929",
                     "connects": [
                         "vagus_point_1",
+                        "PVN_point_1",
                         "PVN_point_2"
-                    ],
-                    "contained-in": [
-                        "PVN_point_1"
                     ]
                 },
                 {
@@ -4826,10 +4756,8 @@
                     "models": "UBERON:0011326",
                     "connects": [
                         "vagus_point_3",
+                        "SLN_point_1",
                         "SLN_point_2"
-                    ],
-                    "contained-in": [
-                        "SLN_point_1"
                     ]
                 },
                 {
@@ -4993,10 +4921,8 @@
                     "models": "ILX:0786680",
                     "connects": [
                         "vagus_point_4",
+                        "CVN_point_3",
                         "CVN_point_1"
-                    ],
-                    "contained-in": [
-                        "CVN_point_3"
                     ]
                 },
                 {
@@ -5044,10 +4970,8 @@
                     "models": "UBERON:0003716",
                     "connects": [
                         "vagus_point_5",
+                        "RLN_point_2",
                         "RLN_point_1"
-                    ],
-                    "contained-in": [
-                        "RLN_point_2"
                     ]
                 },
                 {
