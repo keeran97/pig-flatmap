@@ -623,6 +623,10 @@
         "term": "UBERON:0001245",
         "name": "Anus"
     },
+    "digestive_80": {
+        "term": "UBERON:0013473",
+        "name": "Lower Esophagus"
+    },
     "reproductive_1": {
         "term": "UBERON:0000995",
         "name": "uterus"
