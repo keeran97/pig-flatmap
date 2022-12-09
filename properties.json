@@ -4421,6 +4421,7 @@
     "networks": [
         {
             "id": "neural",
+            "type": "nerve",
             "centrelines": [
                 {
                     "id": "SCG-MCG_sympathetic_cord",
