@@ -1324,6 +1324,9 @@
         "S44_S3": {
             "class": "spinal_44"
         },
+        "S44_S4": {
+            "class": "spinal_44"
+        },
         "S45_C1": {
             "models": "UBERON:0002838",
             "name": "first cervical dorsal root ganglion"
@@ -1807,6 +1810,9 @@
         "S50_S3": {
             "class": "spinal_50"
         },
+        "S50_S4": {
+            "class": "spinal_50"
+        },
         "S50_T1": {
             "class": "spinal_50"
         },
@@ -1962,6 +1968,9 @@
         },
         "body_10-1": {
             "class": "body_10"
+        },
+        "body_11-1": {
+            "class": "body_11"
         },
         "bolser_13-1": {
             "class": "bolser_13"
@@ -3859,6 +3868,9 @@
         },
         "spinal_65-1": {
             "class": "spinal_65"
+        },
+        "spinal_69-1": {
+            "class": "spinal_69"
         },
         "urinary_10-1": {
             "class": "urinary_10"

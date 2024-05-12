@@ -787,6 +787,10 @@
         "term": "ILX:0738444",
         "name": "Interscapular brown adipose tissue"
     },
+    "body_11": {
+        "term": "UBERON:0001826",
+        "name": "Nasal cavity mucosa"
+    },
     "circulatory_1": {
         "term": "UBERON:0001981",
         "name": "blood vessel"
@@ -1042,6 +1046,10 @@
     "spinal_68": {
         "term": "ILX:0738371",
         "name": "Rexed Lamina VII of T1"
+    },
+    "spinal_69": {
+        "term": "UBERON:0006463",
+        "name": "S4 segment of sacral spinal cord"
     },
     "brain_1": {
         "term": "UBERON:0001898",
@@ -1385,7 +1393,7 @@
     },
     "ganglion_22": {
         "models": "ILX:0794733",
-        "name": "Ovarian nerve plexus sympathetic ganglion",
+        "name": "Ovarian nerve plexus sympathetic ganglion"
     },
     "lung_2": {
         "term": "UBERON:0003715",
@@ -1439,7 +1447,7 @@
         "term": "ILX:0793563",
         "name": "Splenic Nerve Plexus"
     },
-    "plexus_13-1": {
+    "plexus_13": {
         "models": "UBERON:0002013",
         "name": "Superior hypogastric nerve plexus"
     },
