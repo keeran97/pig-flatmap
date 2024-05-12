@@ -680,34 +680,38 @@
         "name": "Uterine Cervix"
     },
     "reproductive_13": {
+        "term": "UBERON:0001295",
+        "name": "Endometrium"
+    },
+    "reproductive_14": {
         "term": "UBERON:0001296",
         "name": "Myometrium"
     },
-    "reproductive_14": {
+    "reproductive_15": {
         "term": "UBERON:0001190",
         "name": "Ovarian artery"
     },
-    "reproductive_15": {
+    "reproductive_16": {
         "term": "UBERON:0002411",
         "name": "Clitoris"
     },
-    "reproductive_16": {
+    "reproductive_17": {
         "term": "UBERON:0004223",
         "name": "Vagina smooth muscle"
     },
-    "reproductive_17": {
+    "reproductive_18": {
         "term": "UBERON:0008331",
         "name": "Clitoral smooth muscle"
     },
-    "reproductive_18": {
+    "reproductive_19": {
         "term": "UBERON:0001344",
         "name": "Epithelium of Vagina"
     },
-    "reproductive_19": {
+    "reproductive_20": {
         "term": "UBERON:0009853",
         "name": "Body of Uterus"
     },
-    "reproductive_20": {
+    "reproductive_21": {
         "term": "UBERON:0001981",
         "name": "Blood vessel"
     },
