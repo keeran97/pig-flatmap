@@ -791,6 +791,26 @@
         "term": "UBERON:0001826",
         "name": "Nasal cavity mucosa"
     },
+    "eye_1": {
+        "term": "UBERON:0001817",
+        "name": "Lacrimal gland"
+    },
+    "eye_2": {
+        "term": "UBERON:0001697",
+        "name": "Orbit of Skull"
+    },
+    "eye_3": {
+        "term": "UBERON:0001769",
+        "name": "Iris"
+    },
+    "eye_4": {
+        "term": "UBERON:0001607",
+        "name": "Sphincter pupillae"
+    },
+    "eye_5": {
+        "term": "UBERON:0001605",
+        "name": "Ciliary muscle"
+    },
     "circulatory_1": {
         "term": "UBERON:0001981",
         "name": "blood vessel"
@@ -1403,6 +1423,18 @@
         "models": "ILX:0794733",
         "name": "Ovarian nerve plexus sympathetic ganglion"
     },
+    "ganglion_23": {
+        "models": "UBERON:0002058",
+        "name": "Main Ciliary Ganglion"
+    },
+    "ganglion_24": {
+        "models": "UBERON:0003962",
+        "name": "Pterygopalatine Ganglion"
+    },
+    "ganglion_25": {
+        "models": "UBERON:0001675",
+        "name": "Trigeminal Ganglion"
+    },
     "lung_2": {
         "term": "UBERON:0003715",
         "name": "splanchnic nerve"
@@ -1458,6 +1490,18 @@
     "plexus_13": {
         "models": "UBERON:0002013",
         "name": "Superior hypogastric nerve plexus"
+    },
+    "plexus_14": {
+        "models": "ILX:0793832",
+        "name": "Ovarian Nerve Plexus"
+    },
+    "plexus_15": {
+        "models": "ILX:0793706",
+        "name": "Tympanic plexus"
+    },
+    "plexus_16": {
+        "models": "UBERON:0011194",
+        "name": "Ophthalmic plexus"
     },
     "label_4": {
         "term": "UBERON:0002364",

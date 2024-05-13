@@ -1930,6 +1930,15 @@
         "ganglion_22-1": {
             "class": "ganglion_22"
         },
+        "ganglion_23-1": {
+            "class": "ganglion_23"
+        },
+        "ganglion_24-1": {
+            "class": "ganglion_24"
+        },
+        "ganglion_25-1": {
+            "class": "ganglion_25"
+        },
         "body_1-1": {
             "class": "body_1"
         },
@@ -1971,6 +1980,21 @@
         },
         "body_11-1": {
             "class": "body_11"
+        },
+        "eye_1-1": {
+            "class": "eye_1"
+        },
+        "eye_2-1": {
+            "class": "eye_2"
+        },
+        "eye_3-1": {
+            "class": "eye_3"
+        },
+        "eye_4-1": {
+            "class": "eye_4"
+        },
+        "eye_5-1": {
+            "class": "eye_5"
         },
         "bolser_13-1": {
             "class": "bolser_13"
@@ -3988,6 +4012,12 @@
         },
         "plexus_13-1": {
             "class": "plexus_13"
+        },
+        "plexus_15-1": {
+            "class": "plexus_15"
+        },
+        "plexus_16-1": {
+            "class": "plexus_16"
         },
         "label_1-1": {
             "class": "label_1"
@@ -6803,6 +6833,120 @@
                     "connects": [
                         "plexus_15-1",
                         "point_50"
+                    ]
+                },
+                {
+                    "id": "CNVII",
+                    "models": "UBERON:0001647",
+                    "connects": [
+                        "brain_53-1",
+                        "pet_branching_point-2"
+                    ]
+                },
+                {
+                    "id": "deep_pet",
+                    "models": "ILX:0793713",
+                    "connects": [
+                        "plexus_7-1",
+                        "pet_branching_point-1"
+                    ]
+                },
+                {
+                    "id": "great_pet",
+                    "models": "ILX:0793702",
+                    "connects": [
+                        "pet_branching_point-2",
+                        "pet_branching_point-1"
+                    ]
+                },
+                {
+                    "id": "vidian",
+                    "models": "UBERON:0018412",
+                    "connects": [
+                        "pet_branching_point-1",
+                        "vidian_branching_point"
+                    ]
+                },
+                {
+                    "id": "ophthalmic",
+                    "models": "UBERON:0000348",
+                    "connects": [
+                        "ganglion_25-1",
+                        "ophthalmic_branching_point"
+                    ]
+                },
+                {
+                    "id": "lacrimal",
+                    "models": "",
+                    "connects": [
+                        "ophthalmic_branching_point",
+                        "lacrimal_branching_point",
+                        "eye_1-1"
+                    ]
+                },
+                {
+                    "id": "maxillary",
+                    "models": "UBERON:0000377",
+                    "connects": [
+                        "ganglion_25-1",
+                        "maxillary_branching_point"
+                    ]
+                },
+                {
+                    "id": "zygomatic",
+                    "models": "",
+                    "connects": [
+                        "maxillary_branching_point",
+                        "zygomatic_branching_point",
+                        "eye_1-1"
+                    ]
+                },
+                {
+                    "id": "lacrimal_zygomatic",
+                    "models": "ILX:0793711",
+                    "connects": [
+                        "lacrimal_branching_point",
+                        "maxillary_branching_point"
+                    ]
+                },
+                {
+                    "id": "long_ciliary",
+                    "models": "UBERON:0022301",
+                    "connects": [
+                        "plexus_16-1",
+                        "eye_4-1"
+                    ]
+                },
+                {
+                    "id": "short_ciliary",
+                    "models": "UBERON:0022302",
+                    "connects": [
+                        "plexus_16-1",
+                        "eye_4-1"
+                    ]
+                },
+                {
+                    "id": "nasopalatine",
+                    "models": "UBERON:0008810",
+                    "connects": [
+                        "ganglion_24-1",
+                        "body_9-1"
+                    ]
+                },
+                {
+                    "id": "auriculotemporal",
+                    "models": "ILX:0793723",
+                    "connects": [
+                        "digestive_6-1",
+                        "ganglion_21-1"
+                    ]
+                },
+                {
+                    "id": "oculomotor",
+                    "models": "UBERON:0001643",
+                    "connects": [
+                        "brain_54-1",
+                        "oculomotor_branching_point"
                     ]
                 }
             ]
